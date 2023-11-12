@@ -27,12 +27,12 @@
                         "Instantly consumes [5] [Power] <when above [5] [Power]>",
                         "[+5]% Strength <for [9999] turns> <hidden from users>"]
         },
-        {
+       /*{
                 "name": "Power Level 10",
                 "uniques": ["Doing so will consume this opportunity to choose a Promotion",
                 "Instantly consumes [10] [Power] <when above [10] [Power]>",
                         "[+10]% Strength <for [9999] turns> <hidden from users>"]
-        },
+        },*/
         {
                 "name": "Power Level 100",
                 "uniques": ["Doing so will consume this opportunity to choose a Promotion",
