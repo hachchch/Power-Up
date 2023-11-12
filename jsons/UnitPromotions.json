@@ -1,7 +1,7 @@
 [
         {
                 "name": "Global unique",
-                "uniques": ["This Unit gains the [Power Level] promotion <upon ending a turn in a [All] tile>",
+                "uniques": ["This Unit gains the [Power Level] promotion <upon ending a turn in a [All] tile> <when above [1] [Power]>",
                         "This Unit gains the [Power Level 2] promotion <upon ending a turn in a [All] tile> <when above [2] [Power]>",
                         "This Unit gains the [Power Level 5] promotion <upon ending a turn in a [All] tile> <when above [5] [Power]>",
                         "This Unit gains the [Power Level 100] promotion <upon ending a turn in a [All] tile> <when above [100] [Power]>",
@@ -9,7 +9,7 @@
                         "Instantly provides [1] [Power] <upon defeating a [Barbarian] unit> <with [50]% chance>",
                         "Instantly provides [1] [Power] <upon defeating a [Barbarian] unit> <with [40]% chance>",
                 "Instantly provides [1] [Power] <upon defeating a [Barbarian] unit> <with [30]% chance>",
-                "Instantly provides [1] [Power] <upon defeating a [Barbarian] unit> <with [20]% chance>",]
+                "Instantly provides [1] [Power] <upon defeating a [Barbarian] unit> <with [20]% chance>"]
         },
         {
                 "name": "Power Level",
