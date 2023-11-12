@@ -1,7 +1,8 @@
-[
+/*[
         {
                 "name": "Power Deposit",
 		"type": "TerrainFeature",
 		"occursOn": ["Tundra","Plains","Grassland","Hill","Forest","Jungle","Snow","Desert"]
         }
 ]
+*/
