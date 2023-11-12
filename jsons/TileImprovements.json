@@ -1,9 +1,8 @@
 [
         {
                 "name": "Remove Power Deposit",
-                "uniques": ["Provides [1] [Power] <for [1] turns>"],
                 "terrainsCanBeBuiltOn": ["Power Deposit"],
 		"turnsToBuild": 1,
-                "uniques": ["Can be built outside your borders"]
+                "uniques": ["Provides [1] [Power]","Can be built outside your borders"]
         }
 ]
