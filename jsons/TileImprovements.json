@@ -1,6 +1,6 @@
 [
         {
                 "name": "Remove Power Deposit",
-                "uniques": ["Provides [1] [Power]"],
+                "uniques": ["Provides [1] [Power] <for [1] turns>"],
         }
 ]
