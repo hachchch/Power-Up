@@ -2,9 +2,8 @@
         {
                 "name": "Global unique",
                 "uniques": ["This Unit gains the [Power Level] promotion <upon ending a turn in a [All] tile> <when above [0] [Power]>",
-                        "This Unit gains the [Power Level 2] promotion <upon ending a turn in a [All] tile> <when above [2] [Power]>",
-                        "This Unit gains the [Power Level 5] promotion <upon ending a turn in a [All] tile> <when above [5] [Power]>",
-                        "This Unit gains the [Power Level 100] promotion <upon ending a turn in a [All] tile> <when above [100] [Power]>",
+                        "This Unit gains the [Power Level 2] promotion <upon ending a turn in a [All] tile> <when above [1] [Power]>",
+                        "This Unit gains the [Power Level 5] promotion <upon ending a turn in a [All] tile> <when above [4] [Power]>",
                         "Instantly provides [1] [Power] <upon defeating a [Military] unit>",
                         "Instantly provides [1] [Power] <upon defeating a [Barbarian] unit> <with [50]% chance>",
                         "Instantly provides [1] [Power] <upon defeating a [Barbarian] unit> <with [40]% chance>",
@@ -15,31 +14,25 @@
                 "name": "Power Level",
                 "uniques": ["Doing so will consume this opportunity to choose a Promotion",
                         "Instantly consumes [1] [Power] <with [Power]>",
-                        "[+1]% Strength <for [9999] turns> <hidden from users>"]
+                        "[+1]% Strength <for [9999] turns>"]
         },
         {
                 "name": "Power Level 2",
                 "uniques": ["Doing so will consume this opportunity to choose a Promotion",
-                        "Instantly consumes [2] [Power] <when above [2] [Power]>",
-                        "[+2]% Strength <for [9999] turns> <hidden from users>"]
+                        "Instantly consumes [2] [Power] <when above [1] [Power]>",
+                        "[+2]% Strength <for [9999] turns>"]
                         
         },
         {
                 "name": "Power Level 5",
                 "uniques": ["Doing so will consume this opportunity to choose a Promotion",
-                        "Instantly consumes [5] [Power] <when above [5] [Power]>",
-                        "[+5]% Strength <for [9999] turns> <hidden from users>"]
+                        "Instantly consumes [5] [Power] <when above [4] [Power]>",
+                        "[+5]% Strength <for [9999] turns>"]
         },
        /*{
                 "name": "Power Level 10",
                 "uniques": ["Doing so will consume this opportunity to choose a Promotion",
-                "Instantly consumes [10] [Power] <when above [10] [Power]>",
+                "Instantly consumes [10] [Power] <when above [9] [Power]>",
                         "[+10]% Strength <for [9999] turns> <hidden from users>"]
         },*/
-        {
-                "name": "Power Level 100",
-                "uniques": ["Doing so will consume this opportunity to choose a Promotion",
-                        "Instantly consumes [100] [Power] <when above [100] [Power]>",
-                        "[+100]% Strength <for [9999] turns> <hidden from users>"]
-        },
 ]
