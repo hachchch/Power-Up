@@ -2,6 +2,6 @@
         {
                 "name": "Power",
                 "resourceType": "Strategic",
-		"uniques": ["Cannot be traded","[+1]% Strength"]
+		"uniques": ["Cannot be traded","[+1]% Strength","Stockpiled"]
         }
 ]
