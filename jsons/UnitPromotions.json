@@ -9,7 +9,7 @@
                         "Instantly provides [1] [Power] <upon defeating a [Barbarian] unit> <with [50]% chance>",
                         "Instantly provides [1] [Power] <upon defeating a [Barbarian] unit> <with [40]% chance>",
                 "Instantly provides [1] [Power] <upon defeating a [Barbarian] unit> <with [30]% chance>",
-                "Instantly provides [1] [Power] <upon defeating a [Barbarian] unit> <with [20]% chance>"]
+                "Instantly provides [1] [Power] <upon defeating a [Barbarian] unit> <with [20]% chance>","Can build [Remove Power Deposit] improvements on tiles <in [Power Deposit] tiles>"]
         },
         {
                 "name": "Power Level",
