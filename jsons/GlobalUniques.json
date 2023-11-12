@@ -1,6 +1,6 @@
 {
         "name": "Global uniques",
         "uniques": ["[Military] units gain the [Global unique] promotion",
-        "Instantly provides [100] [Power] <upon founding a city>" //for test to working
+        /*"Instantly provides [100] [Power] <upon founding a city>" //for test to working*/
         ]
 }
