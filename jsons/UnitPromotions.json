@@ -1,0 +1,12 @@
+[
+        {
+                "name": "Global unique",
+                "uniques": ["This Unit gains the [Power Level] promotion <upon ending a turn in a [All] tile>","Consumes [1] [Power] <with [Power]>",
+                        "Provides [1] [Power] <upon defeating a [Barbarian] unit>"]
+        },
+        {
+                "name": "Power Level",
+                "uniques": ["Doing so will consume this opportunity to choose a Promotion",
+                        "[+1]% Strength <for [1] turns> <with [Power]>"]
+        }
+]
